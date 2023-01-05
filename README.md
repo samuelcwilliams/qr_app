@@ -1,4 +1,4 @@
-## A simple QR code generator/scanner implemented in Python
+## A simple QR code generator/scanner
 ### Dependencies:
 * `Python 3`
 * `PyQt5`
